@@ -8,17 +8,16 @@ I'm Kvruntime (him,he), I'm currently working as software developer & DevOps pra
 <details>
     <summary>My Stats</summary>
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvruntime&show_icons=true)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-espoir&show_icons=true)]()
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kvruntime&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
           
 </details>
 
 
-## Let's connect
-
-How to reach me: kvruntime@gmail.com
-
+# 📈 Award
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=victor-espoir)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
