@@ -20,6 +20,7 @@
 <span>
        
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor3spoir&show_icons=true)]()
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=victor3spoir&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </span>
