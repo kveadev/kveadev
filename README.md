@@ -19,8 +19,8 @@
 <div>
 <span>
        
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-espoir&show_icons=true)]()
-[![GitHub Streak](https://streak-stats.demolab.com?user=victor-espoir&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor3spoir&show_icons=true)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=victor3spoir&theme=tokyonight&border_radius=4&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </span>
 </div>
@@ -29,7 +29,7 @@
 
 ## 🥇 My Award
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=victor-espoir)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=victor3spoir)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
